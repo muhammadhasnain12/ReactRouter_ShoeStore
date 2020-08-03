@@ -1,0 +1,26 @@
+/* .body{
+  background-image: url(https://www.sneakerscn.com/wp-content/uploads/2018/09/cheap-nike-air-huarache-womens-fashion-running-shoes-uk-store-k-1007.jpg);
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+} */
+.body{
+  background-image: url(https://rosherun-shoes.us/wp-content/uploads/2020/01/Wrong-Shoes-778x520.png);
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-position: center;
+             
+}
+
+
+.body2{
+  background-image: url(https://content.jdmagicbox.com/comp/moradabad/v7/9999px591.x591.140405131421.m1v7/catalogue/nike-store-civil-lines-moradabad-shoe-dealers-nike-seeo4rf.jpg?clr=);
+  width: 100%;
+  height: auto;
+  /* height: 35rem; */
+  background-size: cover;
+  background-position: center;
+  /* box-sizing: border-box; */
+  display: inline-flex;
+}
